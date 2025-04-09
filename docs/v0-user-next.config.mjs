@@ -2,7 +2,7 @@
 const nextConfig = {
   output: 'export',
   // Remova o basePath para simplificar
-  // basePath: process.env.NODE_ENV === 'production' ? '/nome-do-seu-repositorio' : '',
+  // basePath: process.env.NODE_ENV === 'production' ? '/siteT16' : '',
   images: {
     unoptimized: true,
   },
